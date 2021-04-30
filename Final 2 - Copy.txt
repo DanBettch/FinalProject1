@@ -1,0 +1,5 @@
+To run Final2.m. Run the function 'Final2'. There will be no required inputs to pull up the figure. From here, make a selection on what you want your line to look like, color and style.
+The color options are Red, Blue, Yellow, Green, Black, and Cyan. The style options are X, O, +, *, . and diamonds. 
+Once you have made your selection, enter the same number of x points of y points in each dedicated box, and press plot. If you have a different number of points, there will be a modal error stating there is an invalid number of points.
+You can either enter in a list seperated by spaces, commas, in brackets, or in brackets with commas. This function allows for all the above. 
+If you need to clear your current plot, simply press the reset button, and a new blank plot will appear and both the x and y coordinate boxes will also be empty.
